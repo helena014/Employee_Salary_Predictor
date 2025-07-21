@@ -52,7 +52,7 @@ Organizations often need to plan budgets and compensation structures based on va
 ## 🌐 Deployment
 
 The application is deployed using **Streamlit** on **Hugging Face Spaces**.  
-🔗 [Live Demo Link ](https://huggingface.co/spaces/Helena14/salary-predictor)]
+🔗 [Live Demo Link(https://huggingface.co/spaces/Helena14/salary-predictor)]
 
 ---
 
@@ -72,7 +72,7 @@ The application is deployed using **Streamlit** on **Hugging Face Spaces**.
 
 
                    R2 Score          RMSE           MAE
-Random Forest      0.976070   8018.180308   2993.175996
+Random Forest       0.976070      8018.180308     2993.175996
 
 
 
