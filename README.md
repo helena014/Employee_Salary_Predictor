@@ -69,8 +69,8 @@ The application is deployed using **Streamlit** on **Hugging Face Spaces**.
 
 - **Best Model**: Random Forest Regressor
 - **Performance**:
-    R2 Score -   0.976070 
-    RMSE     -   8018.180308 
+    R2 Score -   0.976070 ,
+    RMSE     -   8018.180308 ,
     MAE      -   2993.175996
 
 
